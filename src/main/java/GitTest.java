@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("我又回来了");
         System.out.println("我又回来了1");
         System.out.println("我又回来了2");
+        System.out.println("我又回来了-hot-fix");
     }
 }
